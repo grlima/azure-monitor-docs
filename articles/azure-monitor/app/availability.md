@@ -94,7 +94,7 @@ This example is designed only to show you the mechanics of how the `TrackAvailab
 ### Get started
 
 > [!NOTE]
-> To follow these instructions, you must use either the [App Service](/azure/azure-functions/dedicated-plan) plan or Functions Premium plan to allow editing code in App Service Editor.
+> To follow these instructions, you must use either the [App Service](/azure/azure-functions/dedicated-plan) plan or Functions Premium plan to allow editing code in App Service Editor. You also must choose a runtime version that supports the in-process model.
 > 
 > If you're testing behind a virtual network or testing nonpublic endpoints, you'll need to use the Functions Premium plan.
 
